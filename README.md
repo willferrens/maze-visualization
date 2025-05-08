@@ -9,7 +9,7 @@ Once opened, running the program and following all prompts properly will allow f
 ## Preview
 Depth-First Maze           | Breadth-First Maze
 :-------------------------:|:-------------------------:
-![image](https://github.com/BoomD3v/maze-visualization/assets/44856757/10ab0043-8a94-43ce-9e2c-b20d47698bfc)  |  ![image](https://github.com/willferrens/maze-visualization/blob/main/bfs.png?raw=true)
+![image](https://github.com/willferrens/maze-visualization/blob/main/dfs.png?raw=true) |  ![image](https://github.com/willferrens/maze-visualization/blob/main/bfs.png?raw=true)
 
 ## Video Explanation
 [![Maze Visualization Explanation](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
