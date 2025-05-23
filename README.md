@@ -5,7 +5,7 @@
 *Built with the tools and technologies:*
 
 ![JSON](https://img.shields.io/badge/-JSON-black?logo=json&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white)
 
 
 *General Information:*
