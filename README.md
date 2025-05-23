@@ -1,3 +1,23 @@
+<div align="center">
+
+# **Personal Portfolio**
+
+*Built with the tools and technologies:*
+
+![JSON](https://img.shields.io/badge/-JSON-black?logo=json&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=black)
+
+
+*General Information:*
+
+![Last Commit](https://img.shields.io/badge/last%20commit-last%20sunday-blue)
+![JavaScript](https://img.shields.io/badge/javascript-91.1%25-yellow)
+![Languages](https://img.shields.io/badge/languages-3-blue)
+
+</div>
+
+---
+
 # Maze Builder and Visualization
 
 An interactive program built in [Processing](https://processing.org/) that allows users to build custom mazes and test them using altered [Depth-First](https://en.wikipedia.org/wiki/Depth-first_search) and [Breadth-First](https://en.wikipedia.org/wiki/Breadth-first_search) search techniques. These search algorithms that are utilized during the maze visualization are based upon their respective functionality within the application of binary trees and are altered to function within my program.
