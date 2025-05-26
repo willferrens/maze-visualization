@@ -4,9 +4,9 @@
 
 *General Information:*
 
-![Last Commit](https://img.shields.io/badge/last%20commit-last%20sunday-blue)
-![JavaScript](https://img.shields.io/badge/javascript-91.1%25-yellow)
-![Languages](https://img.shields.io/badge/languages-3-blue)
+![Last Commit](https://img.shields.io/badge/last%20commit-last%20monday-blue)
+![JavaScript](https://img.shields.io/badge/Processing-100%25-yellow)
+![Languages](https://img.shields.io/badge/languages-2-blue)
 
 </div>
 
