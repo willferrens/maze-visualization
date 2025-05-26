@@ -5,7 +5,7 @@
 *General Information:*
 
 ![Last Commit](https://img.shields.io/badge/last%20commit-last%20monday-blue)
-![JavaScript](https://img.shields.io/badge/Processing-100%25-yellow)
+![JavaScript](https://img.shields.io/badge/processing-100%25-blue)
 ![Languages](https://img.shields.io/badge/languages-2-blue)
 
 </div>
