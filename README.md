@@ -21,7 +21,7 @@ Once opened, running the program and following all prompts properly will allow f
 
 ### General Restrictions
 
-A maze to be implemented into a program is meant to mimic a binary search tree in the sense that, in this altered case, has:
+A maze to be implemented into a program is meant to mimic a binary search tree in the sense that, in this altered case, it must has:
 1. A start node acting as the root of the tree and an end node acting as the point to search to
 2. Up to three children (allowing for traversal in multiple directions)
 3. No cycles to allow for proper backtracking in the DFS algorithm
