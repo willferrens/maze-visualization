@@ -4,7 +4,7 @@
 
 *General Information:*
 
-![Last Commit](https://img.shields.io/badge/last%20commit-5%2F28%2F2025-orange)
+![Last Commit](https://img.shields.io/badge/last%20commit-5%2F29%2F2025-orange)
 ![JavaScript](https://img.shields.io/badge/processing-100%25-blue)
 ![Languages](https://img.shields.io/badge/languages-2-yellow)
 
@@ -22,10 +22,11 @@ Once opened, running the program and following all prompts properly will allow f
 ### General Restrictions
 
 A maze to be implemented into a program is meant to mimic a binary search tree in the sense that, in this altered case, it must has:
-1. A start node acting as the root of the tree and an end node acting as the point to search to
-2. Up to three children (allowing for traversal in multiple directions)
-3. No cycles to allow for proper backtracking in the DFS algorithm and no interference in the BFS algorithm 
-   
+
+1. A start node acting as the root of the tree and an end node acting as the point to search to for the algorithm
+2. Each point in the maze has up to three directions that act as multiple children, allowing for traversal in multiple directions
+3. No cycles to allow for proper backtracking in the DFS algorithm and no interference in the BFS algorithm
+
 If all criteria are met, both the DFS and BFS algorithms should function as intended.
 
 ### Example Mazes
@@ -33,4 +34,4 @@ Depth-First Maze           | Breadth-First Maze
 :-------------------------:|:-------------------------:
 ![image](https://github.com/willferrens/maze-visualization/blob/main/dfs.png?raw=true) |  ![image](https://github.com/willferrens/maze-visualization/blob/main/bfs.png?raw=true)
 
-Above are examples of both the algorithms working at the same time solving a maze. In the DFS maze, the current path is marked in magenta blocks while each intersection found is marked in a green block with the most recent one being represented by a navy block. In the BFS maze, the overall path is show through the green blocks with the current active nodes being represented as red blocks.
+Above are examples of both the algorithms working at the same time solving a maze. In the DFS maze, the current path is marked in magenta blocks while each intersection found is marked in a green block with the most recent one being represented by a navy block. In the BFS maze, the overall path is show through the green blocks with the active nodes being represented as red blocks.
